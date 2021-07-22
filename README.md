@@ -48,8 +48,7 @@ please refer to the video
 [Link](https://drive.google.com/file/d/1mEdkWdSumySN-68yFiq07WfJCRhOwmxA/view)
 
 Demo 
-
-![Demo](Assets\E-commerce-back-end.gif)
+![Demo](Assets/E-commerce-back-end.gif)
         
 ## Contribution
 Mohamed Bassiouni
