@@ -49,7 +49,7 @@ please refer to the video
 
 Demo 
 
-![Demo](assets/E-commerce-back-end.gif)
+![Demo](Assets\E-commerce-back-end.gif)
         
 ## Contribution
 Mohamed Bassiouni
